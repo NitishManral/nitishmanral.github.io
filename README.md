@@ -1,14 +1,14 @@
 
 <html>
 <head>
-  <title>Nitish Manral</title>
+<!--   <title>Nitish Manral</title>
   <meta charset="UTF-8" />
   <link rel="stylesheet" href="https://unpkg.com/98.css" />
     <style>
         p{
             font-size: 20px;
         }
-    </style>
+    </style> -->
 </head>
 
 <body>
